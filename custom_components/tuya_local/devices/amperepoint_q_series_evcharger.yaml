@@ -1,8 +1,11 @@
 # AmperePoint Q Series capability profile.
-# Product IDs are sourced from the AmperePoint Tuya product export. Optional
+# Product IDs are sourced from AmperePoint Tuya product data. Optional
 # entities are exposed only when their datapoints are reported by the device.
 name: EV charger
 products:
+  - id: sdjwsgelux2upvuf
+    manufacturer: AmperePoint
+    model: Q11
   - id: kvldga0omutrnify
     manufacturer: AmperePoint
     model: Q Series
